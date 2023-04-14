@@ -9,5 +9,5 @@
 ### cs 지식
 - 금융
   - [정보계 vs 계정계](./cs/금융/정보계%20vs%20계정계.md)
-- Database
+### Database
   - [database 비교](./cs/Database/database.md)
