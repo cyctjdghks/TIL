@@ -2,7 +2,7 @@
 
 ### Entity 선언 시 primitive type(int) 대신 wrapper class(Integer) 로 선언하는 이유
 - 자료형 vs 와퍼 클래스 차이점
-![image](./img/Wrapper%20Classes.jpg)
+![image](../img/Wrapper%20Classes.jpg)
   - 자료형(primitive type)
     - 산술 연산 가능함
     - null로 초기화 불가
