@@ -16,3 +16,5 @@
   - [정보계 vs 계정계](./cs/금융/정보계%20vs%20계정계.md)
 - Database
   - [database 비교](./cs/Database/database.md)
+- 네트워크
+  - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
