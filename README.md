@@ -28,3 +28,5 @@
 
 ### 알고리즘
 - [Union-Find 알고리즘](./Algorithm/Union-Find%20알고리즘.md)
+- [Union-Find 알고리즘](./Algorithm/Comparable%20과%20Comparator를%20활용한%20우선순위%20큐%20구현.md)
+
