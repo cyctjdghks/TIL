@@ -25,10 +25,10 @@
   - [DNS 서버란?](./cs/네트워크/DNS%20서버란.md)
   - [TLS HandShake](./cs/네트워크/TLS%20HandShake.md)
   - [대칭키 & 공개키](./cs/네트워크/대칭키%20&%20공개키.md)
+  - [REST 란?](./cs/네트워크/REST%란.md)
 
 ### 알고리즘
 - [Union-Find 알고리즘](./Algorithm/Union-Find%20알고리즘.md)
 - [Comparable 과 Comparator를 활용한 우선순위 큐 구현](./Algorithm/Comparable%20과%20Comparator를%20활용한%20우선순위%20큐%20구현.md)
 - [[Java] 문자열 거꾸로 뒤집기](./Algorithm/[Java]%20문자열%20거꾸로%20뒤집기.md)
-
-
+- [[JAVA] 자바_ length / length() / size() 사용법 및 차이](./Algorithm/[Java]%20자바%20길이구하기.md)
