@@ -2,6 +2,7 @@
 
 ## REST란?
 - REST는 Representational State Transfer의 줄임말로(대표 상태 전송) 애플리케이션 개발의 *아키텍처 중 하나 (아키텍처 : 애플리케이션을 설계, 제작하는데 사용하는 패턴과 기술의 총칭)
+- HTTP URI를 통해 자원을 표시하고 HTTP Method를 통해 자원에 대한 처리를 표현합니다. 사람이 읽을 수 있는 API라는 것이 특징입니다. HTTP를 사용하기 때문에 HTTP의 특성을 그대로 반영합니다.
 - 웹 애플리케이션 상에 존재하는 모든 리소스에 대해 고유의 URI를 부여
 - HTTP Method(GET, POST, PUT, DELETE)를 이용해 리소스에 대해 CRUD 명령을 적용
 	- GET: 데이터를 조회
