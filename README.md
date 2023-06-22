@@ -3,7 +3,7 @@
 ### JAVA
 - [자바 11버전 다운로드](./java/Install%20Java%2011%20version.md)
 - [디자인 패턴](./java/디자인%20패턴.md)
-
+- [인터페이스와 추상클래스](./java/인터페이스와%20추상클래스.md)
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
 - [HTTP Request Annotation](./spring/HTTP%20Request%20Annotation.md)
