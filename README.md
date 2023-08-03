@@ -5,13 +5,14 @@
 - [디자인 패턴](./java/디자인%20패턴.md)
 - [인터페이스와 추상클래스](./java/인터페이스와%20추상클래스.md)
 - [자바 컴파일 과정](./java/자바%20컴파일%20과정.md)
+
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
 - [HTTP Request Annotation](./spring/HTTP%20Request%20Annotation.md)
 - [Spring 과 Spring boot](./spring/Spring%20과%20Spring%20boot.md)
 - [JPA Entity](./spring/JPA%20Entity.md)
 - [스프링의 3대 요소](./spring/스프링의%203대%20요소.md)
-- [스프링부트 console에 color 적용하기](./spring/스프링부트%20console에%20color%20적용하기.md.md)
+- [스프링부트 console에 color 적용하기](./spring/스프링부트%20console에%20color%20적용하기.md)
 
 ### cs 지식
 - 금융
