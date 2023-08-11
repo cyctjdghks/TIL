@@ -25,6 +25,9 @@
   - [Index란?](./cs/Database/Index.md)
   - [JOIN](./cs/Database/DB%20JOIN.md)
   - [정규화(Normalization)](./cs/Database/정규화(Normalization).md)
+  - [DB Lock](./cs/Database/DB%20Lock.md)
+  - [Pessimistic Lock과 Optimistic Lock](./cs/Database/Pessimistic%20Lock과%20Optimistic%20Lock.md)
+  - [데드락(DeadLock)](./cs/Database/데드락(DeadLock).md)
 - 네트워크
   - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
   - [OSI 7계층](./cs/네트워크/OSI%207계층.md)
