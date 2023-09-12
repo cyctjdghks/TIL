@@ -16,6 +16,7 @@
 - [DispatcherServlet이란](./spring/DispatcherServlet이란.md)
 - [Spring `@ModelAttribute` vs `@RequestBody`](./spring/Spring%20`@ModelAttribute`%20vs%20`@RequestBody`.md)
 - [Spring MVC](./spring/Spring%20MVC.md)
+- [@Bean vs @Component](./spring/@Bean%20vs%20@Component.md)
 
 ### cs 지식
 - 금융
