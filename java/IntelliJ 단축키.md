@@ -1,0 +1,45 @@
+# 인텔리제이 단축키(Keymap-이클립스)
+
+- Alt+insert : 함수 자동 생성
+- Alt+Enter/Ctrl+1 : import 하기
+- Ctrl+d : 커서 위치한 line 삭제
+- Ctrl+Alt+↑, Ctrl+Alt+↓ : 커서 위치한 line 복제
+- Ctrl+Alt+o : 불필요한 import 제거
+- Ctrl+Shift+f/Ctrl+Alt+L : 코드 자동 정렬하기
+- Ctrl+/ : 해당 Linke 주석
+- Ctrl+Shift+/ : 코드 블록 주석
+- Ctrl+p : 파라미터 정보 보기(어떤 파라미터를 넣어야하는 지 알 수 있음)
+- Ctrl+Shift+Enter : 마지막에 세미콜론찍고 해당줄의 끝으로 감, 세미콜론이 찍혀있는데 쓰면 아래줄로 내려감
+- Shift+F6 : 변수, 함수이름 한꺼번에 rename
+- Ctrl+Alt+v : 변수 자동생성
+- Ctrl+Alt+Shift+t : 리팩토링과 관련된 메뉴가 뜬다.
+- Ctrl+Shift+t/클래스 선택 후 Alt+Enter : 테스트 하고싶은 클래스에서 Ctrl+Shift+t 를 하면 자동으로 패키지와 파일이 만들어진다.
+- shift+f10 : 이전에 실행했던 코드를 다시 실행함
+- Ctrl+e : 최근에 봤던 파일 목록을 확인할 수 있다. 바로 엔터하면 바로 이전에 봤던 파일로 돌아갈 수 있다.
+- Shift+Tab : Tab(들여쓰기)의 반대
+- psvm : 에디터에 psvm이라 치면 자동으로 public static void main(String args[]) 만들어줌
+- Ctrl+Alt+M : extract method 리팩토링 단축키
+- iter : 에디터에 iter이라 치고 Tab누르면 for문 자동 완성
+- soutv : 에디터에 soutv이라 치면 자동으로 System.out.println() 만들어줌(변수 출력)
+- soutm : 에디터에 soutm이라 치면 자동으로 System.out.println() 만들어줌(메소드로 출력)
+- Shift 2번 : search
+- Ctrl+f12 : 클래스 구성 볼 수 있음
+- Ctrl+O : 오버라이드할 함수 목록 볼 수 있음
+- Ctrl+Alt+C : 상수 생성(상수로 뺌)
+- Alt+1 : 프로젝트 탭으로 넘어갈 수 있음
+- 프로젝트 탭에서 ESC : 코드 탭으로 넘어갈 수 있음
+- Ctrl+Alt+B : 함수를 구현한 클래스로 이동, 객체를 생성한 클래스로 이동, 인터페이스를 구현한 클래스로 이동
+- /-- 하고 엔터 : javadocs 생성
+- List이름.iter : List에 대한 for문 자동 완성
+- Ctrl+Shift+F : 파일, 디렉토리 내에서 문자열 찾기
+- Ctrl+Shift+R : 파일, 디렉토리 내에서 문자열 찾아서 대체
+- Ctrl+R : 문자열 찾아서 대체
+- Ctrl+Alt+N : 인라인 한줄로 만들기
+- f2 : 오류 있는 곳으로 바로 이동
+- Alt+Shift+insert : column selection mode
+- Ctrl+Alt+p : 파라미터로 받기
+- Ctrl+Shift+f9 : devtools 사용 시 현재 파일만 재컴파일
+- Ctrl+Shift+u : 대소문자 변환
+- Ctrl+Shift+(↑ or ↓) : 메서드 위치 변경
+- Alt+f8 : evaluate
+- Alt+f7 : 메서드, 클래스 사용처 찾기

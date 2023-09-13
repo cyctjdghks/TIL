@@ -5,6 +5,7 @@
 - [디자인 패턴](./java/디자인%20패턴.md)
 - [인터페이스와 추상클래스](./java/인터페이스와%20추상클래스.md)
 - [자바 컴파일 과정](./java/자바%20컴파일%20과정.md)
+- [Intellij 단축키](./java/IntelliJ%20단축키.md)
 
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
