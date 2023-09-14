@@ -18,6 +18,7 @@
 - [Spring `@ModelAttribute` vs `@RequestBody`](./spring/Spring%20`@ModelAttribute`%20vs%20`@RequestBody`.md)
 - [Spring MVC](./spring/Spring%20MVC.md)
 - [@Bean vs @Component](./spring/@Bean%20vs%20@Component.md)
+- [Gradle의 sourceSets와 Spring 프로파일(Profile) 설명](./spring/Gradle의%20sourceSets와%20Spring%20프로파일(Profile)%20설명.md)
 
 ### cs 지식
 - 금융
