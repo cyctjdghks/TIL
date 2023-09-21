@@ -9,6 +9,7 @@
 - [Java Generic Type](./java/Java%20Generic%20Type%20(제네릭%20타입).md)
 - [오버로딩과 오버라이딩](./java/오버로딩과%20오버라이딩.md)
 - [Java의 특징](./java/Java의%20특징.md)
+- [Java 접근 제어자](./java/Java%20접근%20제어자.md)
 
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
