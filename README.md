@@ -10,6 +10,8 @@
 - [오버로딩과 오버라이딩](./java/오버로딩과%20오버라이딩.md)
 - [Java의 특징](./java/Java의%20특징.md)
 - [Java 접근 제어자](./java/Java%20접근%20제어자.md)
+- [객체지향 프로그래밍 특징](/java/객체지향%20프로그래밍%20특징.md)
+- [SOLID 원칙](./java/SOLID%20원칙.md)
 
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
@@ -24,8 +26,6 @@
 - [@Bean vs @Component](./spring/@Bean%20vs%20@Component.md)
 - [Gradle의 sourceSets와 Spring 프로파일(Profile) 설명](./spring/Gradle의%20sourceSets와%20Spring%20프로파일(Profile)%20설명.md)
 - [네이티브 쿼리 vs. JPQL](./spring/네이티브%20쿼리%20vs%20JPQL.md)
-- [객체지향 프로그래밍 특징](/java/객체지향%20프로그래밍%20특징.md)
-- [SOLID 원칙](./java/SOLID%20원칙.md)
 
 ### cs 지식
 - 금융
