@@ -13,6 +13,7 @@
 - [객체지향 프로그래밍 특징](/java/객체지향%20프로그래밍%20특징.md)
 - [SOLID 원칙](./java/SOLID%20원칙.md)
 - [JVM 구조](./java/JVM%20구조.md)
+- [GC 동작 원리 및 종류](./java/GC%20동작%20원리%20및%20종류.md)
 
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
