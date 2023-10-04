@@ -14,6 +14,7 @@
 - [SOLID 원칙](./java/SOLID%20원칙.md)
 - [JVM 구조](./java/JVM%20구조.md)
 - [GC 동작 원리 및 종류](./java/GC%20동작%20원리%20및%20종류.md)
+- [JAVA 버전 별 특징](./java/JAVA%20버전%20별%20특징.md)
 
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
