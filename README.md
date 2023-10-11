@@ -16,7 +16,8 @@
 - [GC 동작 원리 및 종류](./java/GC%20동작%20원리%20및%20종류.md)
 - [JAVA 버전 별 특징](./java/JAVA%20버전%20별%20특징.md)
 - [java 21에 새로운 기능들](./java/java%2021에%20새로운%20기능들.md)
-- [JAVA THreadLocal](./java/JAVA%20ThreadLocal.md)
+- [JAVA ThreadLocal](./java/JAVA%20ThreadLocal.md)
+
 ### Spring
 - [JPA vs Spring Data JPA vs Hibernate](./spring/JPA%20vs%20Spring%20Data%20JPA%20vs%20Hibernate.md)
 - [HTTP Request Annotation](./spring/HTTP%20Request%20Annotation.md)
@@ -30,6 +31,7 @@
 - [@Bean vs @Component](./spring/@Bean%20vs%20@Component.md)
 - [Gradle의 sourceSets와 Spring 프로파일(Profile) 설명](./spring/Gradle의%20sourceSets와%20Spring%20프로파일(Profile)%20설명.md)
 - [네이티브 쿼리 vs. JPQL](./spring/네이티브%20쿼리%20vs%20JPQL.md)
+- [JPA를 활용한 열거형(Enum) 매핑](./spring/JPA를%20활용한%20열거형(Enum)%20매핑.md)
 
 ### cs 지식
 - 금융
