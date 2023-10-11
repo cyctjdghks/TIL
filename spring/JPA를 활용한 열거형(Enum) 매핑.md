@@ -15,12 +15,7 @@ public enum Gender {
 `@Enumerated(EnumType.STRING)`은 Spring Data JPA에서 열거형(Enum) 값을 데이터베이스 테이블의 문자열 컬럼과 매핑할 때 사용하는 JPA 어노테이션입니다. 이 어노테이션을 사용하면 열거형 상수가 해당 상수의 이름(문자열)으로 데이터베이스에 저장됩니다. 주로 가독성과 유지보수성을 높이는 목적으로 사용됩니다.
 
 ```java
-import javax.persistence.Entity;
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 public class Person {
@@ -42,8 +37,7 @@ public class Person {
 Attribute Converter는 데이터베이스와 엔터티 클래스 사이의 커스텀 변환 로직을 정의할 수 있도록 하는 JPA 기능입니다. 열거형(Enum) 값을 데이터베이스 컬럼의 다른 데이터 타입으로 변환하고, 그 반대로 변환할 때 사용됩니다.
 
 ```java
-import javax.persistence.AttributeConverter;
-import javax.persistence.Converter;
+import javax.persistence.*;
 
 @Converter
 public class GenderConverter implements AttributeConverter<Gender, Integer> {
@@ -71,6 +65,8 @@ public class GenderConverter implements AttributeConverter<Gender, Integer> {
 ```
 
 ```java
+import javax.persistence.*;
+
 @Entity
 public class Person {
     @Id
