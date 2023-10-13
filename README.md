@@ -33,6 +33,7 @@
 - [네이티브 쿼리 vs. JPQL](./spring/네이티브%20쿼리%20vs%20JPQL.md)
 - [JPA를 활용한 열거형(Enum) 매핑](./spring/JPA를%20활용한%20열거형(Enum)%20매핑.md)
 - [Spring JPA Entity Default 설정](./spring/Spring%20JPA%20Entity%20Default%20설정.md)
+- [IntelliJ(인텔리제이) Spring Boot DevTools 적용](./spring/IntelliJ(인텔리제이)%20Spring%20Boot%20DevTools%20적용.md)
 
 ### cs 지식
 - 금융
