@@ -47,6 +47,7 @@
   - [DB Lock](./cs/Database/DB%20Lock.md)
   - [Pessimistic Lock과 Optimistic Lock](./cs/Database/Pessimistic%20Lock과%20Optimistic%20Lock.md)
   - [데드락(DeadLock)](./cs/Database/데드락(DeadLock).md)
+  - [윈도우 cmd 창에서 mysql 서버 접속하기](/cs/Database/윈도우%20cmd%20창에서%20mysql%20서버%20접속하기.md)
 - 네트워크
   - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
   - [OSI 7계층](./cs/네트워크/OSI%207계층.md)
