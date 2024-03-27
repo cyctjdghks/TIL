@@ -11,7 +11,7 @@
 - [오버로딩과 오버라이딩](./java/오버로딩과%20오버라이딩.md)
 - [Java의 특징](./java/Java의%20특징.md)
 - [Java 접근 제어자](./java/Java%20접근%20제어자.md)
-- [객체지향 프로그래밍 특징](/java/객체지향%20프로그래밍%20특징.md)
+- [객체지향 프로그래밍 특징](./java/객체지향%20프로그래밍%20특징.md)
 - [SOLID 원칙](./java/SOLID%20원칙.md)
 - [JVM 구조](./java/JVM%20구조.md)
 - [GC 동작 원리 및 종류](./java/GC%20동작%20원리%20및%20종류.md)
@@ -36,6 +36,8 @@
 - [JPA를 활용한 열거형(Enum) 매핑](<./spring/JPA를%20활용한%20열거형(Enum)%20매핑.md>)
 - [Spring JPA Entity Default 설정](./spring/Spring%20JPA%20Entity%20Default%20설정.md)
 - [IntelliJ(인텔리제이) Spring Boot DevTools 적용](<./spring/IntelliJ(인텔리제이)%20Spring%20Boot%20DevTools%20적용.md>)
+- [QueryDSL 설정](./spring//QueryDSL%20설정.md)
+- [hibernate 쿼리문 보기(p6spy)](<./spring/hibernate%20쿼리문%20보기(p6spy).md>)
 
 ### cs 지식
 
@@ -77,6 +79,7 @@
 - [[Java] 문자열 거꾸로 뒤집기](./Algorithm/[Java]%20문자열%20거꾸로%20뒤집기.md)
 - [[Java] 자바\_ length / length() / size() 사용법 및 차이](./Algorithm/[Java]%20자바%20길이구하기.md)
 - [[Java] 배열 정렬하기](./Algorithm/[Java]%20배열%20정렬하기.md)
+- [[Java] ArrayList를 2차원 배열처럼 사용하기](./Algorithm/[Java]%20ArrayList를%202차원%20배열처럼%20사용하기.md)
 
 ### Docker
 
