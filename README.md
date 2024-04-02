@@ -56,6 +56,7 @@
   - [윈도우 cmd 창에서 mysql 서버 접속하기](/cs/Database/윈도우%20cmd%20창에서%20mysql%20서버%20접속하기.md)
   - [MySQL에서 JSON 타입 컬럼 사용하기](/cs/Database/MySQL에서%20JSON%20타입%20컬럼%20사용하기.md)
   - [MySQL 실행 쿼리 log 확인하는 방법](/cs/Database/MySQL%20실행%20쿼리%20log%20확인.md)
+  - [Redis 란?](./cs/Database/Redis%20란.md)
 - 네트워크
   - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
   - [OSI 7계층](./cs/네트워크/OSI%207계층.md)
