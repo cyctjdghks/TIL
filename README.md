@@ -58,6 +58,7 @@
   - [MySQL에서 JSON 타입 컬럼 사용하기](/cs/Database/MySQL에서%20JSON%20타입%20컬럼%20사용하기.md)
   - [MySQL 실행 쿼리 log 확인하는 방법](/cs/Database/MySQL%20실행%20쿼리%20log%20확인.md)
   - [Redis 란?](./cs/Database/Redis%20란.md)
+  - [MySQL 자동 백업](./cs/Database/MySQL%20자동%20백업.md)
 - 네트워크
   - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
   - [OSI 7계층](./cs/네트워크/OSI%207계층.md)
@@ -90,3 +91,7 @@
 - [Docker 명령어](./docker/Docker%20명령어.md)
 - [docker attach 컨테이너ID 와 docker exec -it 컨테이너ID bash 의 차이점](./docker/docker%20attach%20컨테이너ID%20와%20docker%20exec%20-it%20컨테이너ID%20bash%20의%20차이점.md)
 - [docker run 과 docker service create의 차이점](./docker/docker%20run%20과%20docker%20service%20create의%20차이점.md)
+
+### Linux
+
+- [리눅스 크론탭(Linux Crontab) 사용법](<./Linux/리눅스%20크론탭(Linux%20Crontab)%20사용법.md>)
