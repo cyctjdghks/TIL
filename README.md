@@ -95,3 +95,4 @@
 ### Linux
 
 - [리눅스 크론탭(Linux Crontab) 사용법](<./Linux/리눅스%20크론탭(Linux%20Crontab)%20사용법.md>)
+- [크론탭 vim 으로 열기](./Linux/크론탭%20vim%20으로%20열기.md)
