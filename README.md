@@ -41,24 +41,27 @@
 - [hibernate 쿼리문 보기(p6spy)](<./spring/hibernate%20쿼리문%20보기(p6spy).md>)
 - [Querydsl Invalid path 에러](./spring/Querydsl%20Invalid%20path%20에러.md)
 
+### Database
+
+- [database 비교](./Database/database.md)
+- [트랜잭션과 ACID란?](./Database/트랜잭션과%20ACID.md)
+- [Index란?](./Database/Index.md)
+- [JOIN](./Database/DB%20JOIN.md)
+- [정규화(Normalization)](<./Database/정규화(Normalization).md>)
+- [DB Lock](./Database/DB%20Lock.md)
+- [Pessimistic Lock과 Optimistic Lock](./Database/Pessimistic%20Lock과%20Optimistic%20Lock.md)
+- [데드락(DeadLock)](<./Database/데드락(DeadLock).md>)
+- [윈도우 cmd 창에서 mysql 서버 접속하기](/Database/윈도우%20cmd%20창에서%20mysql%20서버%20접속하기.md)
+- [MySQL에서 JSON 타입 컬럼 사용하기](/Database/MySQL에서%20JSON%20타입%20컬럼%20사용하기.md)
+- [MySQL 실행 쿼리 log 확인하는 방법](/Database/MySQL%20실행%20쿼리%20log%20확인.md)
+- [Redis 란?](./Database/Redis%20란.md)
+- [MySQL 자동 백업](./Database/MySQL%20자동%20백업.md)
+- [연관관계 있는 테이블 조회](./Database/연관관계%20있는%20테이블%20조회.md)
+
 ### cs 지식
 
 - 금융
   - [정보계 vs 계정계](./cs/금융/정보계%20vs%20계정계.md)
-- Database
-  - [database 비교](./cs/Database/database.md)
-  - [트랜잭션과 ACID란?](./cs/Database/트랜잭션과%20ACID.md)
-  - [Index란?](./cs/Database/Index.md)
-  - [JOIN](./cs/Database/DB%20JOIN.md)
-  - [정규화(Normalization)](<./cs/Database/정규화(Normalization).md>)
-  - [DB Lock](./cs/Database/DB%20Lock.md)
-  - [Pessimistic Lock과 Optimistic Lock](./cs/Database/Pessimistic%20Lock과%20Optimistic%20Lock.md)
-  - [데드락(DeadLock)](<./cs/Database/데드락(DeadLock).md>)
-  - [윈도우 cmd 창에서 mysql 서버 접속하기](/cs/Database/윈도우%20cmd%20창에서%20mysql%20서버%20접속하기.md)
-  - [MySQL에서 JSON 타입 컬럼 사용하기](/cs/Database/MySQL에서%20JSON%20타입%20컬럼%20사용하기.md)
-  - [MySQL 실행 쿼리 log 확인하는 방법](/cs/Database/MySQL%20실행%20쿼리%20log%20확인.md)
-  - [Redis 란?](./cs/Database/Redis%20란.md)
-  - [MySQL 자동 백업](./cs/Database/MySQL%20자동%20백업.md)
 - 네트워크
   - [google.com을 접속할 때 일어나는 일](./cs/네트워크/google.com%20을%20접속할%20때%20일어나는%20일.md)
   - [OSI 7계층](./cs/네트워크/OSI%207계층.md)
@@ -97,3 +100,7 @@
 
 - [리눅스 크론탭(Linux Crontab) 사용법](<./Linux/리눅스%20크론탭(Linux%20Crontab)%20사용법.md>)
 - [크론탭 vim 으로 열기](./Linux/크론탭%20vim%20으로%20열기.md)
+
+### Git
+
+- [서버에 push 한 commit 삭제하기](./Git/서버에%20push%20한%20commit%20삭제하기.md)
