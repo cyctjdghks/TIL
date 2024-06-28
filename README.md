@@ -57,6 +57,7 @@
 - [Redis 란?](./Database/Redis%20란.md)
 - [MySQL 자동 백업](./Database/MySQL%20자동%20백업.md)
 - [연관관계 있는 테이블 조회](./Database/연관관계%20있는%20테이블%20조회.md)
+- [MySQL workbench - safe mode해제](./Database/MySQL%20workbench%20-%20safe%20mode해제.md)
 
 ### cs 지식
 
