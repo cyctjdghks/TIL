@@ -58,6 +58,7 @@
 - [MySQL 자동 백업](./Database/MySQL%20자동%20백업.md)
 - [연관관계 있는 테이블 조회](./Database/연관관계%20있는%20테이블%20조회.md)
 - [MySQL workbench - safe mode해제](./Database/MySQL%20workbench%20-%20safe%20mode해제.md)
+- [테이블 명세서 조회 명령어](./Database/테이블%20명세서%20조회%20명령어.md)
 
 ### cs 지식
 
