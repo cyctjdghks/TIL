@@ -107,3 +107,4 @@
 ### Git
 
 - [서버에 push 한 commit 삭제하기](./Git/서버에%20push%20한%20commit%20삭제하기.md)
+- [git 사용자 변경](./Git/git%20사용자%20변경.md)
