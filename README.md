@@ -19,6 +19,8 @@
 - [java 21에 새로운 기능들](./java/java%2021에%20새로운%20기능들.md)
 - [JAVA ThreadLocal](./java/JAVA%20ThreadLocal.md)
 - [이미지 회전](./java/이미지%20회전.md)
+- [Java의 참조형 객체 - 불변형, 가변형](./java/Java의%20참조형%20객체%20-%20불변형,%20가변형.md)
+- [int 계산 후 long 타입 암시적 형변환](./java/int%20계산%20후%20long%20타입%20암시적%20형변환.md)
 
 ### Spring
 
