@@ -53,6 +53,11 @@ public class Comparator_test {
                 return o1.point - o2.point;
             }
         });
+
+        PriorityQueue<Node> q = new PriorityQueue<>((o1, o2) -> o1.point - o2.point);
+
+        PriorityQueue<Node> q = new PriorityQueue<>((o1, o2) -> Integer.compare(o1.point, o2.point));
+
         q.offer(new Node("123", 2));
         q.offer(new Node("123", 8));
         q.offer(new Node("123", 9));
