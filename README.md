@@ -92,6 +92,7 @@
 - [[Java] 자바\_ length / length() / size() 사용법 및 차이](./Algorithm/[Java]%20자바%20길이구하기.md)
 - [[Java] 배열 정렬하기](./Algorithm/[Java]%20배열%20정렬하기.md)
 - [[Java] ArrayList를 2차원 배열처럼 사용하기](./Algorithm/[Java]%20ArrayList를%202차원%20배열처럼%20사용하기.md)
+- [[Java] Comparator 구현](./Algorithm/[Java]%20Comparator%20구현.md)
 - [알고리즘 정리](./Algorithm/알고리즘%20정리.md)
 
 ### Docker
@@ -112,3 +113,4 @@
 
 - [서버에 push 한 commit 삭제하기](./Git/서버에%20push%20한%20commit%20삭제하기.md)
 - [git 사용자 변경](./Git/git%20사용자%20변경.md)
+- [가장 최근 push 한 커밋 메시지 변경](./Git/가장%20최근%20push%20한%20커밋%20메시지%20변경.md)
