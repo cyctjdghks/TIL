@@ -41,6 +41,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 public class UserService {
 
     private final PasswordEncoder passwordEncoder;
+    private final UserRepository userRepository;
 
     public void register(String username, String rawPassword) {
         String encodedPassword = passwordEncoder.encode(rawPassword); // 암호화
